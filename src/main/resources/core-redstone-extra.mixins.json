@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "io.github.anvilloystudio.minimods.mod.core.redstone.extra.mixins",
+  "priority": 2147480095,
+  "minVersion": "0.8.5",
+  "mixins": [
+    "ComparatorTileMixin",
+    "RepeaterTileMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

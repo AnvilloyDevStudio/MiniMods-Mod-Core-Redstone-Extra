@@ -8,5 +8,10 @@
   "author": "MiniMods",
   "entrypoint": "io.github.anvilloystudio.minimods.mod.core.redstone.extra.Main",
   "initpoint": "io.github.anvilloystudio.minimods.mod.core.redstone.extra.Main",
-  "dependencies": ["core-redstone"]
+  "dependencies": [
+    {
+      "modId": "core-redstone",
+      "version": "0.1.0"
+    }
+  ]
 }
